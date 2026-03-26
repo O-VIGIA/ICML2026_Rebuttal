@@ -2,9 +2,7 @@
 
 ## Table Q1-A.
 **Metric:**  
-$$
-d_t^{rec} = \left\lVert \hat z_{0,t}^{2d} - \hat z_{0,t}^{3d} \right\rVert_2
-$$
+$d_t^{rec} = \left\lVert \hat z_{0,t}^{2d} - \hat z_{0,t}^{3d} \right\rVert_2$
 
 **Caption.** *Step-wise cross-modal Euclidean gap between the recovered clean latents. Smaller is better. The full tri-phase model is consistently better than the Phase1-only counterpart, with the largest gains in the medium/high-noise regime.*
 
