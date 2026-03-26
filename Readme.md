@@ -20,9 +20,7 @@ $d_t^{rec} = \left\lVert \hat z_{0,t}^{2d} - \hat z_{0,t}^{3d} \right\rVert_2$
 
 ## Table Q1-B.
 **Metric:**  
-$$
-d_t^{mid} = \left\lVert mid_t^{2d} - mid_t^{3d} \right\rVert_2
-$$
+$d_t^{mid} = \left\lVert mid_t^{2d} - mid_t^{3d} \right\rVert_2$
 
 **Caption.** *Step-wise Euclidean gap between bottleneck bridging states. Smaller is better. The gap reduction supports the claim that the proposed objectives improve trajectory coupling beyond endpoint alignment.*
 
@@ -40,9 +38,7 @@ $$
 
 ## Table Q1-C.
 **Metric:**  
-$$
-d_t^{eps} = \left\lVert \hat\epsilon_t^{2d} - \hat\epsilon_t^{3d} \right\rVert_2
-$$
+$d_t^{eps} = \left\lVert \hat\epsilon_t^{2d} - \hat\epsilon_t^{3d} \right\rVert_2$
 
 **Caption.** *Step-wise Euclidean gap between the predicted noises from the two modalities. Smaller is better. The benefit is most visible in the medium/high-noise region, where Phase2 / Phase3 are expected to contribute.*
 
