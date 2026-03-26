@@ -61,8 +61,8 @@ $d_t^{eps} = \left\lVert \hat\epsilon_t^{2d} - \hat\epsilon_t^{3d} \right\rVert_
 
 ## Figure Q3-A.
 **Caption.** *Visulization of retrieval results compared between SCR and our DiffCrossGait.*
-<img src="./2D3D.png">
-<img src="./3D2D.png">
+<img src="2D3D.png">
+<img src="3D2D.png">
 
 
 ---
